@@ -1,0 +1,3 @@
+/home/liiujinjian/桌面/helloworld/build/CMakeFiles/edit_cache.dir
+/home/liiujinjian/桌面/helloworld/build/CMakeFiles/rebuild_cache.dir
+/home/liiujinjian/桌面/helloworld/build/CMakeFiles/HelloWorld.dir
